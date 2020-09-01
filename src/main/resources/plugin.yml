@@ -1,0 +1,4 @@
+name: EntityHealth
+version: ${project.version}
+main: dev.dankom.entityHealth.Main
+api-version: 1.16
